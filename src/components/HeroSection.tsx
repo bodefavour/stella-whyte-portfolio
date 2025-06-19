@@ -4,15 +4,15 @@ import ColorThief from "colorthief";
 
 const images = [
     {
-        src: "/assets/stella1.jpg",
+        src: "../assets/stella1.jpg",
         titles: ["Model", "Philanthropist", "Golf Champion", "Media Personality"],
     },
     {
-        src: "/assets/stella2.jpg",
+        src: "../assets/stella2.jpg",
         titles: ["Founder", "Beauty Queen", "Influencer", "Public Speaker"],
     },
     {
-        src: "/assets/stella3.jpg",
+        src: "../assets/stella3.jpg",
         titles: ["TV Host", "Entrepreneur", "Humanitarian", "Advocate"]
     }
 ];
